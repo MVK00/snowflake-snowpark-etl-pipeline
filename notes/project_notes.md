@@ -290,16 +290,3 @@ This project demonstrates how modern data pipelines are built using:
 The final output provides **business-ready datasets** for analytics and reporting.
 
 ---
-
-## 📷 Screenshots (Add Below)
-
-* AWS IAM Role Setup
-* S3 Bucket Data
-* Snowflake Stage
-* Query Outputs
-* Snowpark Worksheets
-
-(Add images in `/images` folder and reference here)
-
----
-
